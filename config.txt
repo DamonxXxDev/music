@@ -1,0 +1,6 @@
+﻿token= NDcwODI0NjA5NjA5MTU0NTcx.DoLRPw.YBXm9FoaIyZA54K-eFt12gQ3UXg
+owner= 442348317737877504 
+prefix= t
+game= Type Dplay
+stayinchannel=true
+songinstatus=true 
