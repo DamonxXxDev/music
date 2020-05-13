@@ -1,6 +1,6 @@
-﻿token= NDcwODI0NjA5NjA5MTU0NTcx.DoLRPw.YBXm9FoaIyZA54K-eFt12gQ3UXg
-owner= 442348317737877504 
-prefix= t
+﻿token= NzA4NzY5MjczMDYxMDQ4NDc0.XrwnaA.mt7SiO22CWHmZ1FhGy_JDRhrM5c
+owner= 617046166219128943 
+prefix= !
 game= Type Dplay
 stayinchannel=true
 songinstatus=true 
